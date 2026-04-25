@@ -1,0 +1,17 @@
+================================================================
+Title                   : ROCKY II 
+Release Date            : 22-07-2002
+Filename                : Rocky_2.bsp
+Author                  : Hench
+
+Web site                : www.move.to/henchmen
+			   
+Description             : I think it`s more fun in AG arcade or arena mode :)
+
+
+Installation
+------------
+
+Unzip the file Rocky_2.bsp into your ...\sierra\halflife\valve\maps directory
+
+

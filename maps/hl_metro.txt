@@ -1,0 +1,16 @@
+bsp=/vave/maps
+sky= /valve/gfx/env
+sound=valve\sound\ambience
+
+--------------------------------------------------------------------------------------------------------
+The textures in these files are property of Remedy Entertainment Ltd., 
+and can be used only as long as the work is recognized as original artwork by 
+Remedy, and no financial profit is made in the process. 
+--------------------------------------------------------------------------------------------------------
+Sky map made by: Marc Schroeder aka Term
+Email:		audion@spaceman.de / spaceman@muenster.de
+Homepage:	http://www.spaceman.de/audion
+--------------------------------------------------------------------------------------------------------
+map made by: Jonas Ek aka Kermit_one
+Email: 	     pej.ek@telia.com / hell__no@hotmail.com
+Homepage:    http://www.geidemarkgustafson.nu/artist/
